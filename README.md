@@ -1,3 +1,6 @@
+First download the requirement
+
+
 First check for Mysql presence in the PC
 
 In MYSQL
